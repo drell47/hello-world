@@ -8,3 +8,6 @@ Changes to Readme for using the redme-edits branch in the introduction
    following along with https://guides.github.com/activities/hello-world/
    Readme does not currently have any useful information.  Too bad...
    
+Add some text in the clone on local machine
+And this is that text as referenced above.  All Done.
+Add one more line for a good fix
